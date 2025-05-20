@@ -8,7 +8,7 @@
 
 ## Reach me at 
 - Website: [Portfolio](https://goals.my.id/)
-- LinkedIn: [Setyo Purnomo](https://www.linkedin.com/in/setyo-purnomo-b9b7a7120/)
+- LinkedIn: [Setyo Purnomo](https://www.linkedin.com/in/setyo-purnomo/)
 
 [![Most Used Languages](https://api.githubtrends.io/user/svg/sangvictim/langs?time_range=one_year&include_private=True&theme=synthwaves)](https://githubtrends.io)
 
